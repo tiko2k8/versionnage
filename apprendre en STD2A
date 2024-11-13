@@ -1,6 +1,7 @@
 #les composants du problèmes
 
-acteurs profs
+acteurs
+profs
 eleves
 parents
 
@@ -11,3 +12,10 @@ mobilier scolaire
 infrastructures
 batiment
 salle de classe
+
+service
+délégué
+CVL
+outils numérique
+MDL
+CDI
